@@ -1,0 +1,15 @@
+//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob6/Proj62/Tb_PSU_code.sv {1 {vlog -work work -vopt -sv -stats=none //thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob6/Proj62/Tb_PSU_code.sv
+QuestaSim-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module TB_PSU_CODE
+
+Top level modules:
+	TB_PSU_CODE
+
+} {} {}} //thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob6/Proj62/PSU_code.sv {1 {vlog -work work -vopt -sv -stats=none //thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob6/Proj62/PSU_code.sv
+QuestaSim-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module PSU_CODE
+
+Top level modules:
+	PSU_CODE
+
+} {} {}}

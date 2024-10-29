@@ -1,0 +1,15 @@
+//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prop32/Comparator_Always.sv {1 {vlog -work work -vopt -sv -stats=none //thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prop32/Comparator_Always.sv
+QuestaSim-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module Comparator_Always
+
+Top level modules:
+	Comparator_Always
+
+} {} {}} //thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prop32/Comparator_Always_tb.sv {1 {vlog -work work -vopt -sv -stats=none //thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prop32/Comparator_Always_tb.sv
+QuestaSim-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module tb_Comparator_Always
+
+Top level modules:
+	tb_Comparator_Always
+
+} {} {}}

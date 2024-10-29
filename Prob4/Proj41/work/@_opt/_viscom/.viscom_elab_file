@@ -1,0 +1,1 @@
+C:/questasim64_2024.2/win64/VisualizerRls/bin/viscom.exe -nolock -quiet -jmem_size 393216 work.tb_Carry_look_A_Head_Adder -quiet -auto_acc_if_foreign -work work -debugdb -allow_unnamed -o _opt -id 1-00be438f1419-6720662c-fd-34d0 +__design_bin_path+//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob4/Proj41 +__betafsm

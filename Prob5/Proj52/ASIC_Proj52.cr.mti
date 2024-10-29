@@ -1,0 +1,15 @@
+//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob5/Proj52/Priority_Encoder.sv {1 {vlog -work work -vopt -sv -stats=none //thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob5/Proj52/Priority_Encoder.sv
+QuestaSim-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module PE_Always
+
+Top level modules:
+	PE_Always
+
+} {} {}} //thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob5/Proj52/tb_Priority_Encoder.sv {1 {vlog -work work -vopt -sv -stats=none //thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob5/Proj52/tb_Priority_Encoder.sv
+QuestaSim-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module tb_PE_Always
+
+Top level modules:
+	tb_PE_Always
+
+} {} {}}

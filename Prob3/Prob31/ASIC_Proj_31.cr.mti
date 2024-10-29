@@ -1,0 +1,8 @@
+//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prob31/Comparator_tb.sv {1 {vlog -work work -vopt -sv -stats=none //thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prob31/Comparator_tb.sv
+QuestaSim-64 vlog 2024.2 Compiler 2024.05 May 20 2024
+-- Compiling module tb_Comparator
+
+Top level modules:
+	tb_Comparator
+
+} {} {}}

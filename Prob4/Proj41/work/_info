@@ -1,0 +1,89 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f vlog 2024.2 2024.05, May 20 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prop32
+T_opt
+!s110 1730176557
+V]8IP[^ZN6CaK?R>GOJHPQ3
+04 26 4 work tb_Carry_look_A_Head_Adder fast 0
+=1-00be438f1419-6720662c-fd-34d0
+R1
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work -debugdb
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2024.2;79
+vCarry_look_A_Head_Adder
+2//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob4/Proj41/Carry_Look_a head_adder.sv
+Z3 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1730176547
+!i10b 1
+!s100 67eL32o7cZQnVFC1IaFi;2
+IMJZ8:B;CJzV933iSO4kf<0
+S1
+Z4 d//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob4/Proj41
+w1730176538
+8//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob4/Proj41/Carry_Look_a head_adder.sv
+F//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob4/Proj41/Carry_Look_a head_adder.sv
+!i122 23
+L0 2 22
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2024.2;79
+r1
+!s85 0
+31
+Z7 !s108 1730176547.000000
+!s107 //thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob4/Proj41/Carry_Look_a head_adder.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob4/Proj41/Carry_Look_a head_adder.sv|
+!i113 0
+Z8 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@carry_look_@a_@head_@adder
+vtb_Carry_look_A_Head_Adder
+2//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob4/Proj41/tb_Carry_Look_a_head.sv
+R3
+!s110 1730176548
+!i10b 1
+!s100 D3oV^mg?:WZMCae10=cYM1
+IlH2BGWf_SA;>XQ1zGC:_Q1
+S1
+R4
+w1730175546
+8//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob4/Proj41/tb_Carry_Look_a_head.sv
+F//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob4/Proj41/tb_Carry_Look_a_head.sv
+!i122 24
+L0 2 58
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 //thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob4/Proj41/tb_Carry_Look_a_head.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob4/Proj41/tb_Carry_Look_a_head.sv|
+!i113 0
+R8
+R2
+ntb_@carry_look_@a_@head_@adder

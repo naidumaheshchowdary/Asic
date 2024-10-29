@@ -1,0 +1,27 @@
+# Compile of Priority_Encoder.sv was successful.
+# Compile of tb_Priority_Encoder.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -debugDB tb_PE_Always -do "add wave sim:/tb_PE_Always/* ; run -all"
+# End time: 00:41:45 on Oct 29,2024, Elapsed time: 0:01:32
+# Errors: 0, Warnings: 8
+# vsim -debugDB tb_PE_Always -do "add wave sim:/tb_PE_Always/* ; run -all" 
+# Start time: 00:41:45 on Oct 29,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt1
+# Loading sv_std.std
+# Loading work.tb_PE_Always(fast)
+# Loading work.PE_Always(fast)
+# ** Note: (vsim-8716) Reusing existing debug database vsim.dbg.
+# add wave sim:/tb_PE_Always/* 
+#  run -all
+# Time: 0 | D--> 0110111000110010 | Y --> 1110 
+# Time: 10 | D--> 0011101000001010 | Y --> 1101 
+# Time: 20 | D--> 1001111100011101 | Y --> 1111 
+# Time: 30 | D--> 1000010110111000 | Y --> 1111 
+# Time: 40 | D--> 1000111011011010 | Y --> 1111 
+# Time: 50 | D--> 0001101011000000 | Y --> 1100 
+# Time: 60 | D--> 0010100010101100 | Y --> 1101 
+# Time: 70 | D--> 0111100100110010 | Y --> 1110 
+# Time: 80 | D--> 0010010000011100 | Y --> 1101 
+# Time: 90 | D--> 0011000010111110 | Y --> 1101 
+# Time: 100 | D--> 0000000000000000 | Y --> 0000 
+# Time: 110 | D--> 0000000100000000 | Y --> 1000 

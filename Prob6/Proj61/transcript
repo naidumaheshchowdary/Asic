@@ -1,0 +1,351 @@
+# Compile of PSU_code.sv was successful.
+# Compile of Tb_PSU_code.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -debugDB work.TB_PSU_CODE
+# vsim -debugDB work.TB_PSU_CODE 
+# Start time: 03:41:43 on Oct 29,2024
+# ** Warning: (vsim-4308) Enabling visibility using +acc is recommended with debug flow.
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Note: (vsim-8611) Generating debug db.
+# ** Warning: (vopt-4308) Enabling visibility using +acc is recommended with debug flow.
+# Support of the MGLS_LICENSE_FILE and LM_LICENSE_FILE licensing environment variables will be discontinued starting with the 2025.1 release. Please update to using the SALT_LICENSE_SERVER variable.
+# Please contact Siemens EDA Customer Support (https://support.sw.siemens.com/) for assistance.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=2.
+# Loading sv_std.std
+# Loading work.TB_PSU_CODE(fast)
+# Loading work.PSU_CODE(fast)
+# ** Note: (vsim-8900) Creating design debug database vsim.dbg.
+# Compile of PSU_code.sv was successful.
+# Compile of Tb_PSU_code.sv was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of PSU_code.sv was successful.
+# Compile of Tb_PSU_code.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all"
+# End time: 03:44:55 on Oct 29,2024, Elapsed time: 0:03:12
+# Errors: 0, Warnings: 9
+# vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all" 
+# Start time: 03:44:55 on Oct 29,2024
+# ** Warning: (vsim-4308) Enabling visibility using +acc is recommended with debug flow.
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Note: (vsim-8611) Generating debug db.
+# ** Warning: (vopt-4308) Enabling visibility using +acc is recommended with debug flow.
+# Support of the MGLS_LICENSE_FILE and LM_LICENSE_FILE licensing environment variables will be discontinued starting with the 2025.1 release. Please update to using the SALT_LICENSE_SERVER variable.
+# Please contact Siemens EDA Customer Support (https://support.sw.siemens.com/) for assistance.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=2.
+# Loading sv_std.std
+# Loading work.TB_PSU_CODE(fast)
+# Loading work.PSU_CODE(fast)
+# ** Note: (vsim-8900) Creating design debug database vsim.dbg.
+# add wave sim:/TB_PSU_CODE/* 
+#  run -all
+# Time: 0 | M: 0110110111000110010 | Result: 0
+# Time: 10 | M: 1010011101000001010 | Result: 1
+# Time: 20 | M: 1101001111100011101 | Result: 0
+# Time: 30 | M: 0111000010110111000 | Result: 0
+# Time: 40 | M: 1101000111011011010 | Result: 0
+# Time: 50 | M: 0010001101011000000 | Result: 0
+# Time: 60 | M: 0100010100010101100 | Result: 0
+# Time: 70 | M: 0100111100100110010 | Result: 0
+# Time: 80 | M: 0010010010000011100 | Result: 0
+# Time: 90 | M: 0100011000010111110 | Result: 0
+# Time: 100 | M: 0000000011011111101 | Result: 0
+# Time: 110 | M: 0001101001011011000 | Result: 1
+# Time: 120 | M: 0101111000001001001 | Result: 1
+# Time: 130 | M: 1001101101101010001 | Result: 0
+# Time: 140 | M: 1100110011011010011 | Result: 0
+# Time: 150 | M: 1101000111111010010 | Result: 0
+# Time: 160 | M: 0111111001010100000 | Result: 0
+# Time: 170 | M: 1000000001101000010 | Result: 0
+# Time: 180 | M: 0011111110000110011 | Result: 0
+# Time: 190 | M: 1011100010101001100 | Result: 0
+# Time: 200 | M: 1011011101011110100 | Result: 0
+# Time: 210 | M: 1010110111101011110 | Result: 0
+# Time: 220 | M: 0111011010001111111 | Result: 0
+# Time: 230 | M: 1111000100111011010 | Result: 0
+# Time: 240 | M: 1011001111100010100 | Result: 0
+# Time: 250 | M: 0110010001110100010 | Result: 1
+# Time: 260 | M: 1110000101011110001 | Result: 0
+# Time: 270 | M: 1110010000110010011 | Result: 0
+# Time: 280 | M: 1101001101011111000 | Result: 0
+# Time: 290 | M: 1100000000111111110 | Result: 0
+# Time: 300 | M: 0000001010101111100 | Result: 1
+# Time: 310 | M: 0010010011011101000 | Result: 1
+# Compile of PSU_code.sv was successful.
+# Compile of Tb_PSU_code.sv was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all"
+# End time: 03:47:48 on Oct 29,2024, Elapsed time: 0:02:53
+# Errors: 0, Warnings: 4
+# vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all" 
+# Start time: 03:47:48 on Oct 29,2024
+# ** Warning: (vsim-4308) Enabling visibility using +acc is recommended with debug flow.
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Note: (vsim-8611) Generating debug db.
+# ** Warning: (vopt-4308) Enabling visibility using +acc is recommended with debug flow.
+# Support of the MGLS_LICENSE_FILE and LM_LICENSE_FILE licensing environment variables will be discontinued starting with the 2025.1 release. Please update to using the SALT_LICENSE_SERVER variable.
+# Please contact Siemens EDA Customer Support (https://support.sw.siemens.com/) for assistance.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=2.
+# Loading sv_std.std
+# Loading work.TB_PSU_CODE(fast)
+# Loading work.PSU_CODE(fast)
+# ** Note: (vsim-8900) Creating design debug database vsim.dbg.
+# add wave sim:/TB_PSU_CODE/* 
+#  run -all
+# Time: 0 | M: 0110110111000110010 | Result: 0
+# Time: 10 | M: 1010011101000001010 | Result: 0
+# Time: 20 | M: 1101001111100011101 | Result: 0
+# Time: 30 | M: 0111000010110111000 | Result: 0
+# Time: 40 | M: 1101000111011011010 | Result: 0
+# Time: 50 | M: 0010001101011000000 | Result: 0
+# Time: 60 | M: 0100010100010101100 | Result: 0
+# Time: 70 | M: 0100111100100110010 | Result: 0
+# Time: 80 | M: 0010010010000011100 | Result: 0
+# Time: 90 | M: 0100011000010111110 | Result: 0
+# Time: 100 | M: 0000000011011111101 | Result: 1
+# Time: 110 | M: 0001101001011011000 | Result: 0
+# Time: 120 | M: 0101111000001001001 | Result: 0
+# Time: 130 | M: 1001101101101010001 | Result: 0
+# Time: 140 | M: 1100110011011010011 | Result: 0
+# Time: 150 | M: 1101000111111010010 | Result: 0
+# Time: 160 | M: 0111111001010100000 | Result: 0
+# Time: 170 | M: 1000000001101000010 | Result: 0
+# Time: 180 | M: 0011111110000110011 | Result: 0
+# Time: 190 | M: 1011100010101001100 | Result: 0
+# Time: 200 | M: 1011011101011110100 | Result: 0
+# Time: 210 | M: 1010110111101011110 | Result: 0
+# Time: 220 | M: 0111011010001111111 | Result: 0
+# Time: 230 | M: 1111000100111011010 | Result: 0
+# Time: 240 | M: 1011001111100010100 | Result: 0
+# Time: 250 | M: 0110010001110100010 | Result: 0
+# Time: 260 | M: 1110000101011110001 | Result: 0
+# Time: 270 | M: 1110010000110010011 | Result: 0
+# Time: 280 | M: 1101001101011111000 | Result: 0
+# Time: 290 | M: 1100000000111111110 | Result: 1
+# Time: 300 | M: 0000001010101111100 | Result: 0
+# Time: 310 | M: 0010010011011101000 | Result: 0
+# Compile of PSU_code.sv was successful.
+# Compile of Tb_PSU_code.sv was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of PSU_code.sv was successful.
+# Compile of Tb_PSU_code.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all"
+# End time: 03:48:29 on Oct 29,2024, Elapsed time: 0:00:41
+# Errors: 0, Warnings: 5
+# vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all" 
+# Start time: 03:48:29 on Oct 29,2024
+# ** Warning: (vsim-4308) Enabling visibility using +acc is recommended with debug flow.
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Note: (vsim-8611) Generating debug db.
+# ** Warning: (vopt-4308) Enabling visibility using +acc is recommended with debug flow.
+# Support of the MGLS_LICENSE_FILE and LM_LICENSE_FILE licensing environment variables will be discontinued starting with the 2025.1 release. Please update to using the SALT_LICENSE_SERVER variable.
+# Please contact Siemens EDA Customer Support (https://support.sw.siemens.com/) for assistance.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=2.
+# Loading sv_std.std
+# Loading work.TB_PSU_CODE(fast)
+# Loading work.PSU_CODE(fast)
+# ** Note: (vsim-8900) Creating design debug database vsim.dbg.
+# add wave sim:/TB_PSU_CODE/* 
+#  run -all
+# Time: 0 | M: 0110110111000110010 | Result: 0
+# Time: 10 | M: 1010011101000001010 | Result: 1
+# Time: 20 | M: 1101001111100011101 | Result: 0
+# Time: 30 | M: 0111000010110111000 | Result: 0
+# Time: 40 | M: 1101000111011011010 | Result: 0
+# Time: 50 | M: 0010001101011000000 | Result: 0
+# Time: 60 | M: 0100010100010101100 | Result: 0
+# Time: 70 | M: 0100111100100110010 | Result: 0
+# Time: 80 | M: 0010010010000011100 | Result: 0
+# Time: 90 | M: 0100011000010111110 | Result: 0
+# Time: 100 | M: 0000001010101111100 | Result: 1
+# Time: 110 | M: 0010010011011101000 | Result: 1
+# Compile of PSU_code.sv was successful.
+# Compile of Tb_PSU_code.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all"
+# End time: 03:49:11 on Oct 29,2024, Elapsed time: 0:00:42
+# Errors: 0, Warnings: 4
+# vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all" 
+# Start time: 03:49:11 on Oct 29,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading sv_std.std
+# Loading work.TB_PSU_CODE(fast)
+# Loading work.PSU_CODE(fast)
+# ** Note: (vsim-8716) Reusing existing debug database vsim.dbg.
+# add wave sim:/TB_PSU_CODE/* 
+#  run -all
+# Time: 0 | M: 0110110111000110010 | Result: 0
+# Time: 10 | M: 1010011101000001010 | Result: 1
+# Time: 20 | M: 1101001111100011101 | Result: 0
+# Time: 30 | M: 0111000010110111000 | Result: 0
+# Time: 40 | M: 1101000111011011010 | Result: 0
+# Time: 50 | M: 0010001101011000000 | Result: 0
+# Time: 60 | M: 0100010100010101100 | Result: 0
+# Time: 70 | M: 0100111100100110010 | Result: 0
+# Time: 80 | M: 0010010010000011100 | Result: 0
+# Time: 90 | M: 0100011000010111110 | Result: 0
+# Time: 100 | M: 0000001010101111100 | Result: 1
+# Time: 110 | M: 0010010011011101000 | Result: 1
+# Compile of PSU_code.sv was successful.
+# Compile of Tb_PSU_code.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all"
+# End time: 04:18:11 on Oct 29,2024, Elapsed time: 0:29:00
+# Errors: 0, Warnings: 2
+# vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all" 
+# Start time: 04:18:11 on Oct 29,2024
+# ** Warning: (vsim-4308) Enabling visibility using +acc is recommended with debug flow.
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Note: (vsim-8611) Generating debug db.
+# ** Warning: (vopt-4308) Enabling visibility using +acc is recommended with debug flow.
+# Support of the MGLS_LICENSE_FILE and LM_LICENSE_FILE licensing environment variables will be discontinued starting with the 2025.1 release. Please update to using the SALT_LICENSE_SERVER variable.
+# Please contact Siemens EDA Customer Support (https://support.sw.siemens.com/) for assistance.
+# ** Error (suppressible): //thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob6/Proj62/Tb_PSU_code.sv(23): (vopt-7063) Failed to find 'Binary_vector_M' in hierarchical name 'Binary_vector_M'.
+#         Region: TB_PSU_CODE
+# Optimization failed
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=1, Warnings=2.
+# Error loading design
+# End time: 04:18:13 on Oct 29,2024, Elapsed time: 0:00:02
+# Errors: 1, Warnings: 3
+# Compile of PSU_code.sv was successful.
+# Compile of Tb_PSU_code.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all"
+# vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all" 
+# Start time: 04:18:58 on Oct 29,2024
+# ** Warning: (vsim-4308) Enabling visibility using +acc is recommended with debug flow.
+# ** Note: (vsim-3812) Design is being optimized...
+# ** Note: (vsim-8611) Generating debug db.
+# ** Warning: (vopt-4308) Enabling visibility using +acc is recommended with debug flow.
+# Support of the MGLS_LICENSE_FILE and LM_LICENSE_FILE licensing environment variables will be discontinued starting with the 2025.1 release. Please update to using the SALT_LICENSE_SERVER variable.
+# Please contact Siemens EDA Customer Support (https://support.sw.siemens.com/) for assistance.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=2.
+# Loading sv_std.std
+# Loading work.TB_PSU_CODE(fast)
+# Loading work.PSU_CODE(fast)
+# ** Note: (vsim-8900) Creating design debug database vsim.dbg.
+# add wave sim:/TB_PSU_CODE/* 
+#  run -all
+# Time: 0.00ns | M: 0110010000001111010 | Result: 1
+# Time: 10.00ns | M: 0001101101001111110 | Result: 0
+# Time: 20.00ns | M: 1011110111111011010 | Result: 0
+# Time: 30.00ns | M: 0011001111001001110 | Result: 0
+# Time: 40.00ns | M: 0111001101000000010 | Result: 0
+# Time: 50.00ns | M: 1010001011110011011 | Result: 0
+# Time: 60.00ns | M: 1001000000111011001 | Result: 1
+# Time: 70.00ns | M: 1101000011101001100 | Result: 0
+# Time: 80.00ns | M: 1000111100101010111 | Result: 0
+# Time: 90.00ns | M: 0001101111110011011 | Result: 0
+# Time: 100.00ns | M: 0000001010101111100 | Result: 1
+# Time: 110.00ns | M: 0010010011011101000 | Result: 1
+# Compile of PSU_code.sv was successful.
+# Compile of Tb_PSU_code.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -debugDB work.TB_PSU_CODE
+# End time: 04:19:37 on Oct 29,2024, Elapsed time: 0:00:39
+# Errors: 0, Warnings: 5
+# vsim -debugDB work.TB_PSU_CODE 
+# Start time: 04:19:37 on Oct 29,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading sv_std.std
+# Loading work.TB_PSU_CODE(fast)
+# Loading work.PSU_CODE(fast)
+# ** Note: (vsim-8716) Reusing existing debug database vsim.dbg.
+# Compile of PSU_code.sv was successful.
+# Compile of Tb_PSU_code.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all"
+# End time: 04:20:19 on Oct 29,2024, Elapsed time: 0:00:42
+# Errors: 0, Warnings: 2
+# vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all" 
+# Start time: 04:20:19 on Oct 29,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading sv_std.std
+# Loading work.TB_PSU_CODE(fast)
+# Loading work.PSU_CODE(fast)
+# ** Note: (vsim-8716) Reusing existing debug database vsim.dbg.
+# add wave sim:/TB_PSU_CODE/* 
+#  run -all
+# Time: 0.00ns | M: 0110010000001111010 | Result: 1
+# Time: 10.00ns | M: 0001101101001111110 | Result: 0
+# Time: 20.00ns | M: 1011110111111011010 | Result: 0
+# Time: 30.00ns | M: 0011001111001001110 | Result: 0
+# Time: 40.00ns | M: 0111001101000000010 | Result: 0
+# Time: 50.00ns | M: 1010001011110011011 | Result: 0
+# Time: 60.00ns | M: 1001000000111011001 | Result: 1
+# Time: 70.00ns | M: 1101000011101001100 | Result: 0
+# Time: 80.00ns | M: 1000111100101010111 | Result: 0
+# Time: 90.00ns | M: 0001101111110011011 | Result: 0
+# Time: 100.00ns | M: 0000001010101111100 | Result: 1
+# Time: 110.00ns | M: 0010010011011101000 | Result: 1
+# Load canceled
+quit -sim
+# End time: 04:23:02 on Oct 29,2024, Elapsed time: 0:02:43
+# Errors: 0, Warnings: 1
+# Compile of PSU_code.sv was successful.
+# Compile of Tb_PSU_code.sv was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of PSU_code.sv was successful.
+# Compile of Tb_PSU_code.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all"
+# vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all" 
+# Start time: 04:23:24 on Oct 29,2024
+# ** Note: (vsim-8009) Loading existing optimized design _opt
+# Loading sv_std.std
+# Loading work.TB_PSU_CODE(fast)
+# Loading work.PSU_CODE(fast)
+# ** Note: (vsim-8716) Reusing existing debug database vsim.dbg.
+# add wave sim:/TB_PSU_CODE/* 
+#  run -all
+# Time: 0.00ns | M: 0110010000001111010 | Result: 1
+# Time: 10.00ns | M: 0001101101001111110 | Result: 0
+# Time: 20.00ns | M: 1011110111111011010 | Result: 0
+# Time: 30.00ns | M: 0011001111001001110 | Result: 0
+# Time: 40.00ns | M: 0111001101000000010 | Result: 0
+# Time: 50.00ns | M: 1010001011110011011 | Result: 0
+# Time: 60.00ns | M: 1001000000111011001 | Result: 1
+# Time: 70.00ns | M: 1101000011101001100 | Result: 0
+# Time: 80.00ns | M: 1000111100101010111 | Result: 0
+# Time: 90.00ns | M: 0001101111110011011 | Result: 0
+# Time: 100.00ns | M: 0000001010101111100 | Result: 1
+# Time: 110.00ns | M: 0010010011011101000 | Result: 1
+quit -sim
+# End time: 04:25:55 on Oct 29,2024, Elapsed time: 0:02:31
+# Errors: 0, Warnings: 3
+project open //thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob6/Proj61/ASIC_Proj61
+# reading C:/questasim64_2024.2/win64/../modelsim.ini
+# Loading project ASIC_Proj61
+# Compile of PSU_code.sv was successful.
+# Compile of Tb_PSU_code.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all"
+# vsim -debugDB TB_PSU_CODE -do "add wave sim:/TB_PSU_CODE/* ; run -all" 
+# Start time: 04:26:56 on Oct 29,2024
+# ** Warning: (vsim-4308) Enabling visibility using +acc is recommended with debug flow.
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Note: (vsim-8611) Generating debug db.
+# ** Warning: (vopt-4308) Enabling visibility using +acc is recommended with debug flow.
+# Support of the MGLS_LICENSE_FILE and LM_LICENSE_FILE licensing environment variables will be discontinued starting with the 2025.1 release. Please update to using the SALT_LICENSE_SERVER variable.
+# Please contact Siemens EDA Customer Support (https://support.sw.siemens.com/) for assistance.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=2.
+# Loading sv_std.std
+# Loading work.TB_PSU_CODE(fast)
+# Loading work.PSU_CODE(fast)
+# ** Note: (vsim-8900) Creating design debug database vsim.dbg.
+# add wave sim:/TB_PSU_CODE/* 
+#  run -all
+# Time: 0.00ns | M: 0110010000001111010 | Result: 1
+# Time: 10.00ns | M: 0001101101001111110 | Result: 0
+# Time: 20.00ns | M: 1011110111111011010 | Result: 0
+# Time: 30.00ns | M: 0011001111001001110 | Result: 0
+# Time: 40.00ns | M: 0111001101000000010 | Result: 0
+# Time: 50.00ns | M: 1010001011110011011 | Result: 0
+# Time: 60.00ns | M: 1001000000111011001 | Result: 1
+# Time: 70.00ns | M: 1101000011101001100 | Result: 0
+# Time: 80.00ns | M: 1000111100101010111 | Result: 0
+# Time: 90.00ns | M: 0001101111110011011 | Result: 0
+# Time: 100.00ns | M: 0000001010101111100 | Result: 1
+# Time: 110.00ns | M: 0010010011011101000 | Result: 1

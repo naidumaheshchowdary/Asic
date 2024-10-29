@@ -1,0 +1,106 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2024.2 2024.05, May 20 2024
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prob31
+T_opt
+!s110 1730171025
+V_d:n^d:cZ:S<S]B4;53PQ3
+04 20 4 work tb_Comparator_Always fast 0
+=1-00be438f1419-67205090-d5-33d4
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM100
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work -debugdb
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2024.2;79
+R1
+vComparator
+Z3 2//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prop32/Comparator_Always.sv
+Z4 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1730170983
+!i10b 1
+!s100 16EW2h3J25kQJZiD?z1ko2
+IOF9`Az5:l2OT^k>EV8V_]0
+S1
+Z5 d//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prop32
+w1729913612
+Z6 8//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prop32/Comparator_Always.sv
+Z7 F//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prop32/Comparator_Always.sv
+!i122 2
+Z8 L0 1 15
+Z9 VDg1SIo80bB@j0V0VzS_@n1
+Z10 OL;L;2024.2;79
+r1
+!s85 0
+31
+!s108 1730170982.000000
+Z11 !s107 //thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prop32/Comparator_Always.sv|
+Z12 !s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prop32/Comparator_Always.sv|
+!i113 0
+Z13 o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@comparator
+vComparator_Always
+R3
+R4
+Z14 !s110 1730171317
+!i10b 1
+!s100 N?lG=hAz@?oYN^]Yd6E=62
+I_D?l]M]UEECo5YR7il=4^1
+S1
+R5
+w1730171009
+R6
+R7
+!i122 8
+R8
+R9
+R10
+r1
+!s85 0
+31
+Z15 !s108 1730171317.000000
+R11
+R12
+!i113 0
+R13
+R2
+n@comparator_@always
+vtb_Comparator_Always
+2//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prop32/Comparator_Always_tb.sv
+R4
+R14
+!i10b 1
+!s100 08gRBYBKBVf<94SJ[:S323
+I_aaaO6GL:IZWe10nS?8nm0
+S1
+R5
+w1730170816
+8//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prop32/Comparator_Always_tb.sv
+F//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prop32/Comparator_Always_tb.sv
+!i122 9
+L0 2 40
+R9
+R10
+r1
+!s85 0
+31
+R15
+!s107 //thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prop32/Comparator_Always_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|//thoth.cecs.pdx.edu/Home07/maheshn/Desktop/Mahesh/Mahesh_works_SV/HW2/Prob3/Prop32/Comparator_Always_tb.sv|
+!i113 0
+R13
+R2
+ntb_@comparator_@always

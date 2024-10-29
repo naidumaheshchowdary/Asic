@@ -1,0 +1,32 @@
+
+module TB_PSU_CODE;
+logic [18:0] M;
+logic Result;
+//logic [31:0] PSU_ID;
+//logic K = 917048048 % 10;
+//localparam int PSU_ID = 917048048; // PSU ID constant
+//logic [31:0] PSU_ID;
+//logic [31:0] K;
+//K = 
+//PSU ID = 917048048
+PSU_CODE DUT_PSU_CODE(.M(M), .Result(Result));
+
+
+//PSU_ID = 917048048;
+initial begin
+//PSU_ID = 917048048; 
+        $monitor("Time: %0t | M: %b | Result: %b ", $time, M, Result);
+	for(int i = 0; i < 10; i++) begin
+		M = $urandom_range(0, 19'hFFFFF);
+        #10;
+end
+M = 19'b0000001010101111100;
+#10;
+M = 19'b0010010011011101000;
+#10;
+end
+
+endmodule
+
+
+
